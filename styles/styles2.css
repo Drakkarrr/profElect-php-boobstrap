@@ -1,0 +1,141 @@
+.form-all {
+  font-family: Inter, sans-serif;
+}
+
+.form-all .qq-upload-button,
+.form-all .form-submit-button,
+.form-all .form-submit-reset,
+.form-all .form-submit-print {
+  font-family: Inter, sans-serif;
+}
+
+.form-all .form-pagebreak-back-container,
+.form-all .form-pagebreak-next-container {
+  font-family: Inter, sans-serif;
+}
+
+.form-header-group {
+  font-family: Inter, sans-serif;
+}
+
+.form-label {
+  font-family: Inter, sans-serif;
+}
+
+.form-label.form-label-auto {
+  display: block;
+  float: none;
+  text-align: left;
+  width: 100%;
+}
+
+.form-line {
+  margin-top: 12px 36px 12px 36px px;
+  margin-bottom: 12px 36px 12px 36px px;
+}
+
+.form-all {
+  max-width: 752px;
+  width: 100%;
+}
+
+.form-label.form-label-left,
+.form-label.form-label-right,
+.form-label.form-label-left.form-label-auto,
+.form-label.form-label-right.form-label-auto {
+  width: 230px;
+}
+
+.form-all {
+  font-size: 16px;
+}
+
+.form-all .qq-upload-button,
+.form-all .qq-upload-button,
+.form-all .form-submit-button,
+.form-all .form-submit-reset,
+.form-all .form-submit-print {
+  font-size: 16px;
+}
+
+.form-all .form-pagebreak-back-container,
+.form-all .form-pagebreak-next-container {
+  font-size: 16px;
+}
+
+.supernova .form-all,
+.form-all {
+  background-color: #fff;
+}
+
+.form-all {
+  color: #2c3345;
+}
+
+.form-header-group .form-header {
+  color: #2c3345;
+}
+
+.form-header-group .form-subHeader {
+  color: #2c3345;
+}
+
+.form-label-top,
+.form-label-left,
+.form-label-right,
+.form-html,
+.form-checkbox-item label,
+.form-radio-item label,
+span.FITB .qb-checkbox-label,
+span.FITB .qb-radiobox-label,
+span.FITB .form-radio label,
+span.FITB .form-checkbox label,
+[data-blotid][data-type='checkbox'] [data-labelid],
+[data-blotid][data-type='radiobox'] [data-labelid],
+span.FITB-inptCont[data-type='checkbox'] label,
+span.FITB-inptCont[data-type='radiobox'] label {
+  color: #2c3345;
+}
+
+.form-sub-label {
+  color: #464d5f;
+}
+
+.supernova {
+  background-color: #a8b1ec;
+}
+
+.supernova body {
+  background: transparent;
+}
+
+.form-textbox,
+.form-textarea,
+.form-dropdown,
+.form-radio-other-input,
+.form-checkbox-other-input,
+.form-captcha input,
+.form-spinner input {
+  background-color: #fff;
+}
+
+.supernova {
+  background-image: none;
+}
+
+#stage {
+  background-image: none;
+}
+
+.form-all {
+  background-image: none;
+}
+
+.ie-8 .form-all:before {
+  display: none;
+}
+
+.ie-8 {
+  margin-top: auto;
+  margin-top: initial;
+}
